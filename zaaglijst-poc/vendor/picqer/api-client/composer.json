@@ -1,0 +1,28 @@
+{
+    "name": "picqer/api-client",
+    "description": "A PHP Client for the Picqer API",
+    "type": "library",
+    "keywords": [
+        "picqer",
+        "api",
+        "php",
+        "wms"
+    ],
+    "homepage": "https://github.com/picqer/picqer-php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Casper Bakker",
+            "email": "info@picqer.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.0",
+        "ext-curl": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Picqer\\Api\\": "src"
+        }
+    }
+}

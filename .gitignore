@@ -1,10 +1,10 @@
-/node_modules
-/public/hot
-/public/storage
-/storage/*.key
-/vendor
-.env
-.env.backup
+/zaaglijst-poc/node_modules
+/zaaglijst-poc/public/hot
+/zaaglijst-poc/public/storage
+/zaaglijst-poc/storage/*.key
+/zaaglijst-poc/vendor
+/zaaglijst/poc/.env
+/zaaglijst-poc/.env.backup
 .phpunit.result.cache
 Homestead.json
 Homestead.yaml
